@@ -1,6 +1,6 @@
 # Eczane Veritaban SQL
 
-## VERİTABANI ER DİYAGRAMI
+## VERİTABANI DİYAGRAMI
 
 ![Diagram](https://user-images.githubusercontent.com/116449607/199587416-aff0c96c-5edc-4db0-a6e6-95babbd79c89.png)
 
