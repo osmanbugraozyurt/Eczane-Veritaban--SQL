@@ -6,7 +6,7 @@
 
 ## SORGULAR
 
-1) **_İl Bilgileri**
+1) **_İl Bilgileri_**
 ```ruby
 Create Table Iller (PlakaKod int IDENTITY(1,1) Primary Key, Il varchar(100))
 ```
